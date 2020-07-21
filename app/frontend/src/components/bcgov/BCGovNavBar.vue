@@ -6,7 +6,10 @@
           <router-link :to="{ name: 'Home' }">Home</router-link>
         </li>
         <li>
-          <router-link :to="{ name: 'Secure' }">Secure</router-link>
+          <router-link :to="{ name: 'Form' }">Public Form</router-link>
+        </li>
+        <li>
+          <router-link :to="{ name: 'SecureForm' }">Secure Form</router-link>
         </li>
       </ul>
     </div>
