@@ -39,7 +39,7 @@
     "compression": "^1.7.4",
     "config": "^3.3.1",
     "crypto": "^1.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs-extra": "^9.0.1",
     "js-yaml": "^3.14.0",
     "keycloak-connect": "^10.0.2",
